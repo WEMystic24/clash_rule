@@ -11,6 +11,9 @@ DOMAIN-SUFFIX,www.ptzone.xyz
 DOMAIN-SUFFIX,pt.btschool.club
 DOMAIN-SUFFIX,zmpt.cc
 
+#机场更新走直连
+DOMAIN-SUFFIX,su.securebaxice.xyz
+DOMAIN-SUFFIX,sub3.smallstrawberry.com
 
 # MyList
 # 域名后缀匹配
