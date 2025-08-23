@@ -1,5 +1,17 @@
 # 直连补充列表(国内域名不解析时，防止走代理使用)
 
+#pt站
+DOMAIN-SUFFIX,kp.m-team.cc
+DOMAIN-SUFFIX,audiences.me
+DOMAIN-SUFFIX,www.qingwapt.com
+DOMAIN-SUFFIX,www.agsvpt.com
+DOMAIN-SUFFIX,carpt.net
+DOMAIN-SUFFIX,monikadesign.uk
+DOMAIN-SUFFIX,www.ptzone.xyz
+DOMAIN-SUFFIX,pt.btschool.club
+DOMAIN-SUFFIX,zmpt.cc
+
+
 # MyList
 # 域名后缀匹配
 DOMAIN-SUFFIX,time.windows.com
