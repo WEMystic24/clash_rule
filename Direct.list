@@ -11,9 +11,9 @@ DOMAIN-SUFFIX,www.ptzone.xyz
 DOMAIN-SUFFIX,pt.btschool.club
 DOMAIN-SUFFIX,zmpt.cc
 
-#机场更新走直连
-DOMAIN-SUFFIX,su.securebaxice.xyz
-DOMAIN-SUFFIX,sub3.smallstrawberry.com
+#pt盒子
+IP-CIDR,219.146.1.66/32,no-resolve
+
 
 # MyList
 # 域名后缀匹配
@@ -25,7 +25,7 @@ DOMAIN-SUFFIX,hao123.com
 DOMAIN-KEYWORD,baidu
 
 # IP段匹配
-IP-CIDR,219.146.1.66/32,no-resolve
+IP-CIDR,37.120.175.155,no-resolve
 
 # 国内DNS
 DOMAIN-SUFFIX,dns.alidns.com
